@@ -1,0 +1,1009 @@
+Cartão
+
+5305 7749 1315 2899 368
+5429 7689 9287 8110 409
+5378 9889 7767 0065 132
+5280 9872 8835 1875 507
+5188 3374 9076 1961 935
+5477 0492 3137 6708 646
+5284 8991 4464 9192 977
+5377 9849 6631 7082 540
+5509 2163 8443 1547 673
+5119 8144 3274 2832 157
+5486 1010 5293 4708 848
+5245 8147 7331 4602 881
+4556 7813 8612 5723 211
+4485 8604 4558 6947 228
+4664 9538 9367 0348 586
+4485 1533 4263 8965 823
+4485 6562 2778 6329 442
+4716 7039 9349 2517 788
+4539 8003 8220 2955 923
+4556 5806 5022 9058 625
+4929 6479 3619 0725 773
+4279 7363 6095 9915 856
+3754 002691 28442 4331
+3742 734845 61858 6680
+3709 074393 15191 9583
+3757 153345 19204 4683
+3458 679889 24292 7344
+3797 018629 54878 8225
+3483 634335 72388 1202
+3706 178147 43905 4522
+3462 587962 25875 5418
+3778 765544 00059 8110
+
+
+-------------------------------------
+
+Titulo
+
+142818880175
+873178250140
+854313110175
+665685280191
+044188120191
+830121280159
+572214140167
+417876530108
+278033260116
+651632800132
+180068180108
+712367120183
+078816730140
+721760520108
+340308300132
+754140610108
+438005580191
+685457530124
+803382100132
+772288810108
+411251460159
+840362680140
+873806600132
+360417400108
+004500070159
+304346410116
+603738760116
+737764580191
+626013030183
+156603230132
+500566640108
+
+-------------------------------------
+
+Conta
+
+1805639-9 6068
+0678567-0 1255
+1977292-6 2256
+49957-8 0352
+1001979-0 4755
+53633-5 5412
+1402548-0 6674
+50793149-1 1396
+0387334-P 0319
+35221229-6 1122
+43297324-8 2008
+05049600-0 3254
+92419689-0 3926
+1197201-7 1008
+0901942-1 2075
+53083650-9 2135
+37784916-2 0104
+27428121-0 3040
+36989-9 6117
+130909-9 0517
+1815762-4 1963
+1277397-2 0466
+200744-4 0448
+92026914-1 3775
+248471-4 1787
+1247347-2 1677
+87343-8 6924
+27105984-2 1375
+1383665-5 1540
+71146-6 8523
+1415571-6 2652
+
+-------------------------------------
+
+Renavam
+
+16243234062
+78576552166
+56333704997
+19392104866
+94154340861
+04142773126
+31974690589
+03135438823
+50854452776
+33425517337
+26782225768
+22810620961
+44428292463
+85784549183
+58893859810
+58544406330
+71491753615
+96468035545
+37598290256
+99438115030
+94167053092
+26092825897
+81097228083
+00779142241
+43002612350
+55903522206
+49805097050
+29218165151
+33141322779
+42159038524
+98722354534
+24058354040
+
+-------------------------------------
+
+RG
+
+475459908
+422577091
+401374440
+243452159
+420751877
+368890697
+184445425
+404498723
+490868642
+179562733
+478337796
+219965389
+407669887
+289000488
+384889979
+287762166
+379121104
+377604239
+226873778
+377283198
+171698228
+279082496
+484968385
+254380153
+286147713
+110264599
+121024830
+179710977
+332637207
+238264002
+288016683
+
+-------------------------------------
+
+CPF
+
+63293161049
+43937746048
+84524891021
+06550992044
+52097888062
+98878387053
+61046914049
+18323444013
+46788274045
+49401505004
+38483687062
+18317335011
+97935865086
+02116906008
+67541335037
+66494222072
+55834885063
+35603694017
+90572420013
+74771451044
+51040314031
+08035357085
+82839160099
+67318703072
+21846538025
+54831200000
+91057870099
+69368988072
+45638238050
+90461093057
+56980424033
+50176080015
+
+-------------------------------------
+
+Placas
+
+NEL7021
+BXV3454
+KDU2588
+NBE0261
+LWF5641
+MXB7653
+MQW6597
+JNX1382
+MSA8986
+HOP5844
+CBY5046
+NAJ4427
+IQH6711
+KJX8462
+JDR4223
+MWV4993
+JHK6099
+MPJ5744
+HZD2912
+KVC7454
+JJH7493
+NEY4655
+MYA6343
+AYB4032
+LWP8770
+HPR5193
+KIS6726
+NCR1884
+HQN1531
+HTV1401
+
+-------------------------------------
+
+Pessoas
+
+[
+	{
+		"nome": "Emilly Mariana Ribeiro",
+		"idade": 19,
+		"cpf": "298.169.662-98",
+		"rg": "45.432.214-8",
+		"data_nasc": "15/07/2003",
+		"sexo": "Feminino",
+		"signo": "Câncer",
+		"mae": "Raimunda Laís",
+		"pai": "Rafael Bernardo Rodrigo Ribeiro",
+		"email": "emilly-ribeiro71@locare-eventos.com.br",
+		"senha": "tdmpYZcT35",
+		"cep": "69316-066",
+		"endereco": "Rua Constelação",
+		"numero": 948,
+		"bairro": "Raiar do Sol",
+		"cidade": "Boa Vista",
+		"estado": "RR",
+		"telefone_fixo": "(95) 2963-5384",
+		"celular": "(95) 99941-5649",
+		"altura": "1,58",
+		"peso": 88,
+		"tipo_sanguineo": "O+",
+		"cor": "amarelo"
+	},
+	{
+		"nome": "Lúcia Brenda Vitória Almeida",
+		"idade": 69,
+		"cpf": "833.980.400-63",
+		"rg": "15.736.488-4",
+		"data_nasc": "09/08/1953",
+		"sexo": "Feminino",
+		"signo": "Leão",
+		"mae": "Natália Vera Sabrina",
+		"pai": "Guilherme Cauê Almeida",
+		"email": "lucia_almeida@carvajal.com",
+		"senha": "j2F00FQr1h",
+		"cep": "49092-588",
+		"endereco": "Rua Sete",
+		"numero": 261,
+		"bairro": "Olaria",
+		"cidade": "Aracaju",
+		"estado": "SE",
+		"telefone_fixo": "(79) 3901-6480",
+		"celular": "(79) 99211-0642",
+		"altura": "1,58",
+		"peso": 82,
+		"tipo_sanguineo": "B-",
+		"cor": "preto"
+	},
+	{
+		"nome": "Bárbara Cláudia Marlene Pereira",
+		"idade": 63,
+		"cpf": "377.541.643-96",
+		"rg": "29.244.947-1",
+		"data_nasc": "20/07/1959",
+		"sexo": "Feminino",
+		"signo": "Câncer",
+		"mae": "Josefa Teresinha",
+		"pai": "Cláudio Augusto Gael Pereira",
+		"email": "barbara_claudia_pereira@paraisopolis.com.br",
+		"senha": "q2oMr1mi2A",
+		"cep": "74477-431",
+		"endereco": "Rua BF 38",
+		"numero": 482,
+		"bairro": "Boa Vista",
+		"cidade": "Goiânia",
+		"estado": "GO",
+		"telefone_fixo": "(62) 2608-3981",
+		"celular": "(62) 98597-7299",
+		"altura": "1,79",
+		"peso": 73,
+		"tipo_sanguineo": "O-",
+		"cor": "verde"
+	},
+	{
+		"nome": "Enrico Giovanni da Luz",
+		"idade": 66,
+		"cpf": "868.096.829-37",
+		"rg": "32.985.449-5",
+		"data_nasc": "25/02/1956",
+		"sexo": "Masculino",
+		"signo": "Peixes",
+		"mae": "Sarah Mariah Milena",
+		"pai": "Marcelo Otávio Julio da Luz",
+		"email": "enrico_giovanni_daluz@claro.com.br",
+		"senha": "NHUGUD6lkF",
+		"cep": "58701-400",
+		"endereco": "Rua Rosa Figueiredo",
+		"numero": 780,
+		"bairro": "Maternidade",
+		"cidade": "Patos",
+		"estado": "PB",
+		"telefone_fixo": "(83) 3893-8527",
+		"celular": "(83) 98964-4306",
+		"altura": "1,94",
+		"peso": 66,
+		"tipo_sanguineo": "A-",
+		"cor": "vermelho"
+	},
+	{
+		"nome": "Manuela Giovanna Elisa Santos",
+		"idade": 25,
+		"cpf": "800.693.980-20",
+		"rg": "23.934.050-4",
+		"data_nasc": "13/11/1997",
+		"sexo": "Feminino",
+		"signo": "Escorpião",
+		"mae": "Rosa Vitória Manuela",
+		"pai": "Renan Paulo Santos",
+		"email": "manuela-santos83@agencia10clic.com.br",
+		"senha": "0KL3FI0TdN",
+		"cep": "79821-022",
+		"endereco": "Rua Carlos Drummond de Andrade",
+		"numero": 261,
+		"bairro": "Jardim Cristhais",
+		"cidade": "Dourados",
+		"estado": "MS",
+		"telefone_fixo": "(67) 2695-9716",
+		"celular": "(67) 98403-5119",
+		"altura": "1,64",
+		"peso": 74,
+		"tipo_sanguineo": "A+",
+		"cor": "roxo"
+	},
+	{
+		"nome": "Fábio Felipe Carvalho",
+		"idade": 34,
+		"cpf": "783.995.485-53",
+		"rg": "25.815.905-4",
+		"data_nasc": "03/11/1988",
+		"sexo": "Masculino",
+		"signo": "Escorpião",
+		"mae": "Marli Jéssica Rafaela",
+		"pai": "Arthur Theo Caio Carvalho",
+		"email": "fabio_felipe_carvalho@libbero.com.br",
+		"senha": "XHj0WUamkH",
+		"cep": "58073-440",
+		"endereco": "Rua Osório Carvalho Rocha",
+		"numero": 570,
+		"bairro": "José Américo de Almeida",
+		"cidade": "João Pessoa",
+		"estado": "PB",
+		"telefone_fixo": "(83) 2916-6884",
+		"celular": "(83) 99595-1375",
+		"altura": "1,93",
+		"peso": 73,
+		"tipo_sanguineo": "A+",
+		"cor": "vermelho"
+	},
+	{
+		"nome": "Giovanni Yuri Enzo Figueiredo",
+		"idade": 29,
+		"cpf": "321.441.886-61",
+		"rg": "35.537.517-5",
+		"data_nasc": "16/02/1993",
+		"sexo": "Masculino",
+		"signo": "Aquário",
+		"mae": "Stefany Márcia",
+		"pai": "Pietro Bernardo Arthur Figueiredo",
+		"email": "giovanni.yuri.figueiredo@negocios-de-valor.com",
+		"senha": "gKCiTITClJ",
+		"cep": "71536-330",
+		"endereco": "Trecho Trecho 05 Chácara 210",
+		"numero": 453,
+		"bairro": "Setor de Habitações Individuais Norte",
+		"cidade": "Brasília",
+		"estado": "DF",
+		"telefone_fixo": "(61) 3801-1942",
+		"celular": "(61) 99698-4360",
+		"altura": "1,84",
+		"peso": 54,
+		"tipo_sanguineo": "AB-",
+		"cor": "laranja"
+	},
+	{
+		"nome": "Ester Rita Esther Monteiro",
+		"idade": 38,
+		"cpf": "024.697.699-30",
+		"rg": "14.463.971-3",
+		"data_nasc": "14/06/1984",
+		"sexo": "Feminino",
+		"signo": "Gêmeos",
+		"mae": "Cláudia Pietra Renata",
+		"pai": "Renato Pedro Henrique Monteiro",
+		"email": "esterritamonteiro@renoveseuseguro.com",
+		"senha": "pftKg1Yb9h",
+		"cep": "64605-445",
+		"endereco": "Quadra 01",
+		"numero": 117,
+		"bairro": "Parque Industrial",
+		"cidade": "Picos",
+		"estado": "PI",
+		"telefone_fixo": "(89) 3657-8299",
+		"celular": "(89) 98556-5873",
+		"altura": "1,65",
+		"peso": 63,
+		"tipo_sanguineo": "AB+",
+		"cor": "laranja"
+	},
+	{
+		"nome": "Francisca Evelyn Lima",
+		"idade": 78,
+		"cpf": "404.335.679-02",
+		"rg": "21.335.627-2",
+		"data_nasc": "01/05/1944",
+		"sexo": "Feminino",
+		"signo": "Touro",
+		"mae": "Mirella Bianca Andrea",
+		"pai": "Benedito Raul Guilherme Lima",
+		"email": "francisca_lima@grupoblackout.com.br",
+		"senha": "N46AWsJYA8",
+		"cep": "69040-520",
+		"endereco": "Rua Marudá",
+		"numero": 883,
+		"bairro": "Dom Pedro I",
+		"cidade": "Manaus",
+		"estado": "AM",
+		"telefone_fixo": "(92) 3751-0408",
+		"celular": "(92) 99355-2624",
+		"altura": "1,81",
+		"peso": 81,
+		"tipo_sanguineo": "O+",
+		"cor": "vermelho"
+	},
+	{
+		"nome": "Diogo Theo Baptista",
+		"idade": 69,
+		"cpf": "083.299.844-35",
+		"rg": "11.108.194-4",
+		"data_nasc": "23/05/1953",
+		"sexo": "Masculino",
+		"signo": "Gêmeos",
+		"mae": "Cristiane Marina Jéssica",
+		"pai": "Benedito Márcio Baptista",
+		"email": "diogo.theo.baptista@aguabr.com.br",
+		"senha": "Te0Ory0qw5",
+		"cep": "69917-766",
+		"endereco": "Estrada Dias Martins",
+		"numero": 495,
+		"bairro": "Conjunto Universitário",
+		"cidade": "Rio Branco",
+		"estado": "AC",
+		"telefone_fixo": "(68) 3910-0024",
+		"celular": "(68) 98237-6407",
+		"altura": "1,88",
+		"peso": 61,
+		"tipo_sanguineo": "B+",
+		"cor": "vermelho"
+	},
+	{
+		"nome": "Valentina Bárbara Flávia Campos",
+		"idade": 42,
+		"cpf": "997.818.821-58",
+		"rg": "30.774.834-0",
+		"data_nasc": "04/02/1980",
+		"sexo": "Feminino",
+		"signo": "Aquário",
+		"mae": "Malu Aurora",
+		"pai": "Raul Pedro Roberto Campos",
+		"email": "valentinabarbaracampos@torah.com.br",
+		"senha": "IwIGGiwJ0w",
+		"cep": "88905-376",
+		"endereco": "Rua Felício Realino Gomes",
+		"numero": 803,
+		"bairro": "Urussanguinha",
+		"cidade": "Araranguá",
+		"estado": "SC",
+		"telefone_fixo": "(48) 3526-1298",
+		"celular": "(48) 98315-7797",
+		"altura": "1,54",
+		"peso": 60,
+		"tipo_sanguineo": "O-",
+		"cor": "preto"
+	},
+	{
+		"nome": "Guilherme Thales Rezende",
+		"idade": 38,
+		"cpf": "549.434.286-73",
+		"rg": "44.812.054-9",
+		"data_nasc": "19/10/1984",
+		"sexo": "Masculino",
+		"signo": "Libra",
+		"mae": "Beatriz Heloise",
+		"pai": "Felipe Edson Rezende",
+		"email": "guilherme.thales.rezende@mpc.com.br",
+		"senha": "9PycnBg0Ma",
+		"cep": "65085-294",
+		"endereco": "1ª Travessa Laranjeiras",
+		"numero": 270,
+		"bairro": "Anjo da Guarda",
+		"cidade": "São Luís",
+		"estado": "MA",
+		"telefone_fixo": "(98) 3500-0257",
+		"celular": "(98) 99849-9542",
+		"altura": "1,65",
+		"peso": 90,
+		"tipo_sanguineo": "O-",
+		"cor": "roxo"
+	},
+	{
+		"nome": "Emily Isabel Brito",
+		"idade": 42,
+		"cpf": "757.294.845-69",
+		"rg": "20.922.973-1",
+		"data_nasc": "06/08/1980",
+		"sexo": "Feminino",
+		"signo": "Leão",
+		"mae": "Daiane Sophie Priscila",
+		"pai": "Hugo Caio Brito",
+		"email": "emily_isabel_brito@casaarte.com.br",
+		"senha": "bAQdxfgYpS",
+		"cep": "44003-284",
+		"endereco": "Rua Américo Vespúcio",
+		"numero": 989,
+		"bairro": "Serraria Brasil",
+		"cidade": "Feira de Santana",
+		"estado": "BA",
+		"telefone_fixo": "(75) 2688-1787",
+		"celular": "(75) 99387-5793",
+		"altura": "1,58",
+		"peso": 62,
+		"tipo_sanguineo": "B-",
+		"cor": "azul"
+	},
+	{
+		"nome": "Ryan Carlos Matheus das Neves",
+		"idade": 19,
+		"cpf": "028.173.019-94",
+		"rg": "48.407.127-0",
+		"data_nasc": "01/02/2003",
+		"sexo": "Masculino",
+		"signo": "Aquário",
+		"mae": "Raquel Emilly Alice",
+		"pai": "Cauê Levi das Neves",
+		"email": "ryan_carlos_dasneves@gvmail.br",
+		"senha": "iaWB8OE808",
+		"cep": "69084-160",
+		"endereco": "Rua Doutor Dídia",
+		"numero": 490,
+		"bairro": "Zumbi dos Palmares",
+		"cidade": "Manaus",
+		"estado": "AM",
+		"telefone_fixo": "(92) 2574-7402",
+		"celular": "(92) 99712-3947",
+		"altura": "1,88",
+		"peso": 85,
+		"tipo_sanguineo": "B+",
+		"cor": "vermelho"
+	},
+	{
+		"nome": "Vanessa Rosa Alves",
+		"idade": 20,
+		"cpf": "806.773.959-57",
+		"rg": "20.322.161-8",
+		"data_nasc": "02/08/2002",
+		"sexo": "Feminino",
+		"signo": "Leão",
+		"mae": "Clara Marina",
+		"pai": "João Martin Thales Alves",
+		"email": "vanessa-alves84@equipavmineracao.com.br",
+		"senha": "nCUweURa2R",
+		"cep": "66090-570",
+		"endereco": "Bloco Quatro",
+		"numero": 470,
+		"bairro": "São Brás",
+		"cidade": "Belém",
+		"estado": "PA",
+		"telefone_fixo": "(91) 3868-4876",
+		"celular": "(91) 98342-7858",
+		"altura": "1,57",
+		"peso": 47,
+		"tipo_sanguineo": "AB+",
+		"cor": "amarelo"
+	},
+	{
+		"nome": "Fabiana Márcia Porto",
+		"idade": 19,
+		"cpf": "666.928.203-67",
+		"rg": "47.001.789-2",
+		"data_nasc": "03/11/2003",
+		"sexo": "Feminino",
+		"signo": "Escorpião",
+		"mae": "Louise Milena Evelyn",
+		"pai": "Isaac Victor Porto",
+		"email": "fabiana.marcia.porto@corp.inf.br",
+		"senha": "TiNtsPg4dP",
+		"cep": "72621-322",
+		"endereco": "Quadra Quadra 306 Área Especial 1",
+		"numero": 116,
+		"bairro": "Recanto das Emas",
+		"cidade": "Brasília",
+		"estado": "DF",
+		"telefone_fixo": "(61) 3748-2762",
+		"celular": "(61) 99782-5318",
+		"altura": "1,79",
+		"peso": 51,
+		"tipo_sanguineo": "B-",
+		"cor": "roxo"
+	},
+	{
+		"nome": "Cauê Augusto Danilo Castro",
+		"idade": 75,
+		"cpf": "430.173.057-59",
+		"rg": "46.632.441-8",
+		"data_nasc": "11/04/1947",
+		"sexo": "Masculino",
+		"signo": "Áries",
+		"mae": "Isabella Emily Rafaela",
+		"pai": "Ian Raimundo Hugo Castro",
+		"email": "caue.augusto.castro@gconsult.com.br",
+		"senha": "4FRiygoLkb",
+		"cep": "76870-245",
+		"endereco": "Rua Dourados",
+		"numero": 788,
+		"bairro": "Áreas Especiais",
+		"cidade": "Ariquemes",
+		"estado": "RO",
+		"telefone_fixo": "(69) 3805-8400",
+		"celular": "(69) 99708-7880",
+		"altura": "1,83",
+		"peso": 79,
+		"tipo_sanguineo": "AB-",
+		"cor": "roxo"
+	},
+	{
+		"nome": "Mateus Bernardo Emanuel Costa",
+		"idade": 19,
+		"cpf": "293.787.241-75",
+		"rg": "18.740.847-6",
+		"data_nasc": "18/06/2003",
+		"sexo": "Masculino",
+		"signo": "Gêmeos",
+		"mae": "Juliana Catarina",
+		"pai": "Hugo Sérgio Guilherme Costa",
+		"email": "mateus_costa@cartovale.com.br",
+		"senha": "2bqoopbLC8",
+		"cep": "59156-225",
+		"endereco": "Rua Caminho dos Corais",
+		"numero": 348,
+		"bairro": "Cajupiranga",
+		"cidade": "Parnamirim",
+		"estado": "RN",
+		"telefone_fixo": "(84) 2864-3255",
+		"celular": "(84) 99416-0438",
+		"altura": "1,91",
+		"peso": 73,
+		"tipo_sanguineo": "AB+",
+		"cor": "preto"
+	},
+	{
+		"nome": "Roberto Antonio Lopes",
+		"idade": 27,
+		"cpf": "050.970.628-25",
+		"rg": "44.738.648-7",
+		"data_nasc": "06/09/1995",
+		"sexo": "Masculino",
+		"signo": "Virgem",
+		"mae": "Luciana Márcia Fabiana",
+		"pai": "Elias Henrique Bruno Lopes",
+		"email": "roberto_antonio_lopes@bakerhughes.com",
+		"senha": "S4noq3buIe",
+		"cep": "91150-139",
+		"endereco": "Rua E",
+		"numero": 561,
+		"bairro": "Rubem Berta",
+		"cidade": "Porto Alegre",
+		"estado": "RS",
+		"telefone_fixo": "(51) 2624-2840",
+		"celular": "(51) 98173-1487",
+		"altura": "1,68",
+		"peso": 78,
+		"tipo_sanguineo": "A-",
+		"cor": "laranja"
+	},
+	{
+		"nome": "Yasmin Rebeca Peixoto",
+		"idade": 41,
+		"cpf": "775.655.117-65",
+		"rg": "28.795.257-5",
+		"data_nasc": "16/09/1981",
+		"sexo": "Feminino",
+		"signo": "Virgem",
+		"mae": "Marcela Bruna",
+		"pai": "Tiago Severino Igor Peixoto",
+		"email": "yasmin_peixoto@montcalm.com.br",
+		"senha": "3OHK0Zgwfe",
+		"cep": "77063-478",
+		"endereco": "Quadra T 32 Rua LO 11",
+		"numero": 375,
+		"bairro": "Jardim Taquari (Taquaralto)",
+		"cidade": "Palmas",
+		"estado": "TO",
+		"telefone_fixo": "(63) 3617-4006",
+		"celular": "(63) 98477-6796",
+		"altura": "1,60",
+		"peso": 47,
+		"tipo_sanguineo": "AB-",
+		"cor": "preto"
+	},
+	{
+		"nome": "Daniel Thales Augusto da Cunha",
+		"idade": 27,
+		"cpf": "890.177.397-03",
+		"rg": "44.294.991-1",
+		"data_nasc": "25/08/1995",
+		"sexo": "Masculino",
+		"signo": "Virgem",
+		"mae": "Lívia Esther Lavínia",
+		"pai": "Augusto Vicente da Cunha",
+		"email": "daniel.thales.dacunha@achievecidadenova.com.br",
+		"senha": "EHT6Gd4K86",
+		"cep": "64604-130",
+		"endereco": "Rua Adalto Josino de Araújo",
+		"numero": 321,
+		"bairro": "Ipueiras",
+		"cidade": "Picos",
+		"estado": "PI",
+		"telefone_fixo": "(89) 2606-5592",
+		"celular": "(89) 98951-2188",
+		"altura": "1,70",
+		"peso": 92,
+		"tipo_sanguineo": "AB+",
+		"cor": "roxo"
+	},
+	{
+		"nome": "Erick Eduardo Nunes",
+		"idade": 37,
+		"cpf": "364.692.172-22",
+		"rg": "17.918.612-7",
+		"data_nasc": "08/04/1985",
+		"sexo": "Masculino",
+		"signo": "Áries",
+		"mae": "Antonella Nina Heloisa",
+		"pai": "Hugo Benjamin Diego Nunes",
+		"email": "erick_eduardo_nunes@outershoes.com.br",
+		"senha": "YO1jj37tL1",
+		"cep": "69918-768",
+		"endereco": "Travessa Horta",
+		"numero": 231,
+		"bairro": "Conquista",
+		"cidade": "Rio Branco",
+		"estado": "AC",
+		"telefone_fixo": "(68) 2566-1186",
+		"celular": "(68) 98858-9362",
+		"altura": "1,64",
+		"peso": 98,
+		"tipo_sanguineo": "A+",
+		"cor": "vermelho"
+	},
+	{
+		"nome": "Osvaldo Guilherme César Caldeira",
+		"idade": 20,
+		"cpf": "722.679.783-69",
+		"rg": "43.432.949-6",
+		"data_nasc": "06/01/2002",
+		"sexo": "Masculino",
+		"signo": "Capricórnio",
+		"mae": "Eloá Priscila Gabrielly",
+		"pai": "Lucca Jorge Benjamin Caldeira",
+		"email": "osvaldoguilhermecaldeira@coraza.com.br",
+		"senha": "5WWeRJE5AW",
+		"cep": "90110-210",
+		"endereco": "Praça Engenheiro Guilherme Gaudenzi",
+		"numero": 717,
+		"bairro": "Praia de Belas",
+		"cidade": "Porto Alegre",
+		"estado": "RS",
+		"telefone_fixo": "(51) 3710-3955",
+		"celular": "(51) 99321-9015",
+		"altura": "1,96",
+		"peso": 53,
+		"tipo_sanguineo": "A-",
+		"cor": "vermelho"
+	},
+	{
+		"nome": "Antonio Juan Thiago Jesus",
+		"idade": 28,
+		"cpf": "700.970.646-88",
+		"rg": "24.541.217-7",
+		"data_nasc": "04/02/1994",
+		"sexo": "Masculino",
+		"signo": "Aquário",
+		"mae": "Sarah Emanuelly",
+		"pai": "Gael Sebastião Enrico Jesus",
+		"email": "antonio_juan_jesus@academiagolf.com.br",
+		"senha": "eeTTNeqjBY",
+		"cep": "29158-830",
+		"endereco": "Rua José Rosa",
+		"numero": 482,
+		"bairro": "Cangaíba Setor 2",
+		"cidade": "Cariacica",
+		"estado": "ES",
+		"telefone_fixo": "(27) 2554-3602",
+		"celular": "(27) 98599-4912",
+		"altura": "1,95",
+		"peso": 106,
+		"tipo_sanguineo": "A-",
+		"cor": "preto"
+	},
+	{
+		"nome": "Leonardo Igor Assunção",
+		"idade": 34,
+		"cpf": "101.968.327-99",
+		"rg": "20.921.608-6",
+		"data_nasc": "03/08/1988",
+		"sexo": "Masculino",
+		"signo": "Leão",
+		"mae": "Yasmin Nina Fátima",
+		"pai": "Nelson Isaac Assunção",
+		"email": "leonardo_igor_assuncao@outlook.com",
+		"senha": "ie3GCKgL3M",
+		"cep": "78740-610",
+		"endereco": "Rua Capitão Luiz Carlos Bispo de Camargo",
+		"numero": 166,
+		"bairro": "Coophalis",
+		"cidade": "Rondonópolis",
+		"estado": "MT",
+		"telefone_fixo": "(66) 2797-9673",
+		"celular": "(66) 98301-3996",
+		"altura": "1,90",
+		"peso": 94,
+		"tipo_sanguineo": "O+",
+		"cor": "vermelho"
+	},
+	{
+		"nome": "Betina Isis Dias",
+		"idade": 23,
+		"cpf": "756.011.521-79",
+		"rg": "36.436.988-7",
+		"data_nasc": "05/09/1999",
+		"sexo": "Feminino",
+		"signo": "Virgem",
+		"mae": "Elza Laura",
+		"pai": "César Carlos Dias",
+		"email": "betina-dias86@cruiser.com.br",
+		"senha": "iBtJTM3Rau",
+		"cep": "65632-720",
+		"endereco": "Rua Dezessete",
+		"numero": 955,
+		"bairro": "Sete Estrelas",
+		"cidade": "Timon",
+		"estado": "MA",
+		"telefone_fixo": "(86) 2570-2676",
+		"celular": "(86) 99343-9297",
+		"altura": "1,70",
+		"peso": 70,
+		"tipo_sanguineo": "O-",
+		"cor": "verde"
+	},
+	{
+		"nome": "Betina Raimunda Sandra Almada",
+		"idade": 61,
+		"cpf": "104.910.087-59",
+		"rg": "29.960.884-0",
+		"data_nasc": "05/10/1961",
+		"sexo": "Feminino",
+		"signo": "Libra",
+		"mae": "Lara Alice Mariane",
+		"pai": "Cauê Filipe Almada",
+		"email": "betina_almada@projetochama.com.br",
+		"senha": "qhMatgIdI6",
+		"cep": "79011-110",
+		"endereco": "Rua do Sorriso",
+		"numero": 920,
+		"bairro": "Monte Castelo",
+		"cidade": "Campo Grande",
+		"estado": "MS",
+		"telefone_fixo": "(67) 3527-8291",
+		"celular": "(67) 98358-8044",
+		"altura": "1,53",
+		"peso": 63,
+		"tipo_sanguineo": "A-",
+		"cor": "vermelho"
+	},
+	{
+		"nome": "Josefa Sara Priscila Gonçalves",
+		"idade": 57,
+		"cpf": "970.378.419-43",
+		"rg": "45.310.185-9",
+		"data_nasc": "06/06/1965",
+		"sexo": "Feminino",
+		"signo": "Gêmeos",
+		"mae": "Isadora Andrea Andrea",
+		"pai": "Alexandre Luan Paulo Gonçalves",
+		"email": "josefa-goncalves78@realbit.com.br",
+		"senha": "LbMMMgpsTc",
+		"cep": "78149-295",
+		"endereco": "Rua Quatro",
+		"numero": 910,
+		"bairro": "Parque do Sabiá",
+		"cidade": "Várzea Grande",
+		"estado": "MT",
+		"telefone_fixo": "(65) 3533-9004",
+		"celular": "(65) 98826-2643",
+		"altura": "1,54",
+		"peso": 69,
+		"tipo_sanguineo": "B-",
+		"cor": "verde"
+	},
+	{
+		"nome": "Cláudia Nina Freitas",
+		"idade": 77,
+		"cpf": "266.737.639-06",
+		"rg": "49.987.281-2",
+		"data_nasc": "13/10/1945",
+		"sexo": "Feminino",
+		"signo": "Libra",
+		"mae": "Emilly Jennifer Lúcia",
+		"pai": "Ricardo Sebastião Freitas",
+		"email": "claudia_nina_freitas@otlokk.com",
+		"senha": "27GI94ldTP",
+		"cep": "69905-280",
+		"endereco": "Rua Francisco Freitas",
+		"numero": 399,
+		"bairro": "Baixada da Cadeia Velha",
+		"cidade": "Rio Branco",
+		"estado": "AC",
+		"telefone_fixo": "(68) 2544-2839",
+		"celular": "(68) 99709-6536",
+		"altura": "1,80",
+		"peso": 45,
+		"tipo_sanguineo": "O+",
+		"cor": "laranja"
+	},
+	{
+		"nome": "Cauê Fábio Ferreira",
+		"idade": 24,
+		"cpf": "718.995.047-88",
+		"rg": "38.507.597-2",
+		"data_nasc": "03/05/1998",
+		"sexo": "Masculino",
+		"signo": "Touro",
+		"mae": "Vitória Aline",
+		"pai": "André Bruno Ferreira",
+		"email": "cauefabioferreira@trone.com.br",
+		"senha": "4aoHbEk7h2",
+		"cep": "21735-250",
+		"endereco": "Rua Crumatau",
+		"numero": 895,
+		"bairro": "Realengo",
+		"cidade": "Rio de Janeiro",
+		"estado": "RJ",
+		"telefone_fixo": "(21) 2682-9715",
+		"celular": "(21) 98728-2476",
+		"altura": "2,00",
+		"peso": 62,
+		"tipo_sanguineo": "A+",
+		"cor": "amarelo"
+	}
+]
